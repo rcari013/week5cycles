@@ -1,7 +1,7 @@
 # CSE210Cycle
 Cycle game from BYU CSE210
 
-Cycle is a game where the players try to cut each other off using cycles that leave a trail behind them. The cycle that bumps into other one is the loser.
+The cycle that bumps into other one is the loser. The color of the winner cycle will be shown. :)
 
 ---
 ## Getting Started
