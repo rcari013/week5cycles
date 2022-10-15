@@ -1,4 +1,4 @@
-# CSE210Cycle
+#Cycle
 Cycle game from BYU CSE210
 
 The cycle that bumps into other one is the loser. The color of the winner cycle will be shown. :)
